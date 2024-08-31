@@ -1,0 +1,8 @@
+
+.nav-item .nav-link i {
+    color: gray !important; /* Asegura que el icono de la tab inactiva sea gris */
+}
+
+.nav-item .nav-link.active i {
+    color: #0d6efd !important; /* Asegura que el icono de la tab activa sea azul */
+}
